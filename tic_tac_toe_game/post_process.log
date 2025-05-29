@@ -1,0 +1,13 @@
+Creating Android project with:
+Project Name: tic_tac_toe_game
+Package Name: com.example.tictactoegame
+Min SDK: 24
+Target SDK: 34
+Gradle Version: 8.12
+
+Downloading gradle-wrapper.jar...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 45674  100 45674    0     0  72796      0 --:--:-- --:--:-- --:--:--  318k
+Android project pro-processing complete
